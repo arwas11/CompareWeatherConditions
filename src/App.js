@@ -5,7 +5,7 @@ import Form from "./components/Form";
 export default function App() {
   const [currentWeather, setCurrentWeather] = useState(null);
 
-  const currentWeatherApiKey = "bfc2d580e71f8b33d8f88a40a7ee895c";
+  
 
   const getWeather = async (searchTerm) => {
     const currentWeatherUrl = `https://api.openweathermap.org/data/2.5/weather?q=${searchTerm}&APPID=${currentWeatherApiKey}&units=imperial`;
