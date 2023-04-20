@@ -105,10 +105,10 @@ export default function Form(props) {
     // }
   };
   // console.log("this is form props", props);
-  console.log(
-    "this is formStartDateData before assigning state",
-    formStartDateData
-  );
+  // console.log(
+  //   "this is formStartDateData before assigning state",
+  //   formStartDateData
+  // );
   // console.log(
   //   "this is formEndDateData before assigning state",
   //   formEndDateData
