@@ -33,8 +33,8 @@ The app is easy to use. The user will need to enter into the page where a city a
 
 ## Unresolved Issues
 
-- Due to the Open-Metep API limitation that does not include the past 5 days weather conditions data, I am planning to configure the date input to only show a calendar-date selections starting from the 
-- 
+- Due to the Open-Metep API limitation that does not include the past 5 days weather conditions data, I am planning to configure the date input to only show a calendar-date selections starting from 5 days farther. 
+- Error handling
 
 ## Future Improvements
 
