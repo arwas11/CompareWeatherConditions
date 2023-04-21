@@ -25,7 +25,6 @@ I was motivated to create this app by the drastic and noticeable changes in weat
 - I used async await fetch the weather data from the two APIs in my app.
 - I used the Browser Router dependency to present the two pages the I have in my app.
 - I also installed a number of NPM Packages that my app depended on, such as: react-router-dom, moment, and date-fns.
-- I also
 
 ### How To Use
 
