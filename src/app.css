@@ -1,0 +1,7 @@
+.app {
+  margin: 0;
+  height: 98vh;
+  /* border: 5px solid black; */
+  background-size: cover;
+  text-align: center;
+}

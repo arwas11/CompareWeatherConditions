@@ -1,0 +1,83 @@
+.sections-container {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 80vh;
+  border-width: 3px;
+  border-style: solid;
+  /* border-color: greenyellow; */
+  align-items: baseline;
+  gap: 4%;
+  text-align: center;
+}
+
+.city-search,
+.date-search {
+  /* border: 3px solid red; */
+  align-items: center;
+  height: 75vh;
+  width: 60vh;
+  margin-bottom: 10%;
+  padding-top: 1%;
+  box-shadow: 0 -0.5rem 1rem rgba(0 0 0 / 0.15);
+  border-radius: 20px;
+  border-color: white;
+}
+
+.city-search {
+}
+
+.date-search {
+}
+
+label {
+  font-size: 20pt;
+  webkit-text-stroke: thin;
+  text-shadow: 0 0 black;
+  text-underline-position: from-font;
+  font-weight: bold;
+  color: white;
+}
+
+.start-date {
+  background-color: transparent;
+  text-shadow: 0 0 black;
+  text-underline-position: from-font;
+  margin-top: 5%;
+  color: white;
+  width: 31%;
+  text-align: center;
+  padding-bottom: 1%;
+  font-size: 11pt;
+}
+
+.text-input {
+  background-color: transparent;
+  text-shadow: 0 0 black;
+  text-underline-position: from-font;
+  margin-top: 5%;
+  color: white;
+  width: 45%;
+  text-align: center;
+  padding-bottom: 1%;
+  padding-top: 1%;
+  font-size: 11pt;
+}
+
+.date-note {
+  font-size: 10pt;
+  text-decoration: underline;
+}
+
+.submit-btn {
+  margin-top: 2%;
+  background-color: transparent;
+  text-transform: uppercase;
+  color: white;
+}
+
+::placeholder {
+  color: white;
+}

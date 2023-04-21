@@ -1,0 +1,14 @@
+.nav {
+  display: flex;
+  justify-content: space-around;
+  /* background-color: rgb(146, 132, 106); */
+  color: white;
+  padding: 15px;
+  font-size: 2em;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 19pt;
+}

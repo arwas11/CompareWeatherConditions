@@ -1,0 +1,11 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+body {
+    background-image: url(../public/blue-sky1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Courier New', monospace;
+}

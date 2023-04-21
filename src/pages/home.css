@@ -1,0 +1,31 @@
+.intro {
+  /* border: 3px solid red; */
+  text-align: center;
+  padding: 5% 29% 2% 29%;
+  -webkit-text-stroke: thin;
+  text-shadow: 0 0 black;
+  text-underline-position: from-font;
+}
+.intro-p1 {
+  color: black;
+  font-family: "Courier New", monospace;
+  font-size: 16pt;
+}
+
+.un-link {
+  text-decoration: underline;
+  font-weight: bold;
+  color: white;
+}
+
+.intro-p2 {
+  font-family: "Courier New", monospace;
+  font-size: 20pt;
+
+  text-decoration: underline;
+}
+
+.enter-btn {
+  background-color: transparent;
+  color: white;
+}
