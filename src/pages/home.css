@@ -1,5 +1,6 @@
 .intro {
   /* border: 3px solid red; */
+  height: 80vh;
   text-align: center;
   padding: 5% 29% 2% 29%;
   -webkit-text-stroke: thin;
@@ -10,6 +11,7 @@
   color: black;
   font-family: "Courier New", monospace;
   font-size: 16pt;
+  /* font-size: 1vw; */
 }
 
 .un-link {
@@ -20,7 +22,7 @@
 
 .intro-p2 {
   font-family: "Courier New", monospace;
-  font-size: 20pt;
+  font-size: 19pt;
 
   text-decoration: underline;
 }
