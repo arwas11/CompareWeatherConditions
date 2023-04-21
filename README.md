@@ -43,5 +43,4 @@ The app is easy to use. The user will need to enter into the page where a city a
 
 ### Credits
 
-Thank you to:
 My instructors and classmates, OpenWeather, Open-Meteo, moment, date-fns, StackOverflow users for solution suggestions for different problems
