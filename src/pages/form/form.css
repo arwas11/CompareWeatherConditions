@@ -79,13 +79,13 @@ label {
 ::placeholder {
   color: white;
 }
-.current-results{
+.current-results > h3{
   background-color: #f5f5f58c;
   
   
 }
 
-.past-results {
+.past-results > h3 {
   background-color: #f5f5f58c;
   
 }
