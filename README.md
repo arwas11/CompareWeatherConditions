@@ -12,9 +12,9 @@ I was motivated to create this app by the drastic and noticeable changes in weat
 
 ### Screenshots
 
-"./public/ScreenshotOfApp1.png"
-"./public/ScreenshotOfApp2.png"
-"./public/ScreenshotOfApp3.png"
+![ScreenshotOfApp1](https://user-images.githubusercontent.com/121985979/233684009-c6184b6b-8fb6-4979-ab34-d594881a6619.png)
+![ScreenshotOfApp2](https://user-images.githubusercontent.com/121985979/233684042-b0a5ba14-30d2-49c3-9775-296c682659ff.png)
+![ScreenshotOfApp3](https://user-images.githubusercontent.com/121985979/233684064-91e92e05-6455-4fda-bf61-50bd39c68f2b.png)
 
 ### Technologies used
 
