@@ -34,7 +34,7 @@ label {
   font-size: 20pt;
   webkit-text-stroke: thin;
   text-shadow: 0 0 black;
-  text-underline-position: from-font;
+  /* text-underline-position: from-font; */
   font-weight: bold;
   color: white;
 }
@@ -78,4 +78,14 @@ label {
 
 ::placeholder {
   color: white;
+}
+.current-results{
+  background-color: #f5f5f58c;
+  
+  
+}
+
+.past-results {
+  background-color: #f5f5f58c;
+  
 }

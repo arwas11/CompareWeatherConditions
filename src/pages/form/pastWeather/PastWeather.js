@@ -32,11 +32,11 @@ export default function PastWeather(props) {
     // sunset
 
     return (
-      <>
+      <div className="past-results">
         {/* •	Date fixing: to US format */}
         <h3>
-          <i>{props.currentWeather.name}'s</i> Weather on{" "}
-          {moment(props.date).format("MMM Do YY")}:
+          {props.currentWeather.name} weather on{" "}
+          {moment(props.date).format("MMM Do YYYY")}:
         </h3>
         <h3> Temperature(min): {pastTempMin.slice(0, 2)}°F </h3>
         <h3> Temperature(max): {pastTempMax.slice(0, 2)}°F</h3>
@@ -54,7 +54,7 @@ export default function PastWeather(props) {
             ? ` ${winddirection_10m_dominant}°`
             : "No Available Data"}
         </h3>
-      </>
+      </div>
     );
   };
 

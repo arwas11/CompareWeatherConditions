@@ -28,7 +28,7 @@ export default function App() {
   };
 
   //Past weather fetch
-  const [pastWeather, setpastWeather] = useState(null);
+  const [pastWeather, setPastWeather] = useState(null);
 
   const getPastWeather = async (lat, lon, startDate, endDate) => {
     const pastWeatherUrl = `https://archive-api.open-meteo.com/v1/archive?latitude=${lat}&longitude=-${lon}&start_date=${startDate}&end_date=${endDate}&daily=temperature_2m_max,temperature_2m_min,sunrise,sunset,precipitation_sum,rain_sum,snowfall_sum,windspeed_10m_max,winddirection_10m_dominant&timezone=auto&temperature_unit=fahrenheit&windspeed_unit=mph`;
@@ -51,7 +51,7 @@ export default function App() {
       // if (!response.ok) {
       //   throw new Error("Network response was not OK");
       // }
-      setpastWeather(pastWeatherData);
+      setPastWeather(pastWeatherData);
       console.log(
         "this is past weather data after setting state",
         pastWeatherData

@@ -111,11 +111,12 @@ export default function Form(props) {
 
         <div className="date-search">
           <label>
-            {" "}
-            Enter Date To Compare:{" "}
+            
+            Enter Date To Compare:
+            <br></br>
             <i className="date-note">
-              starting 5 days prior to today's {} days
-            </i>{" "}
+              Hint - go back farther than 5 days from today
+            </i>
           </label>
           <form onSubmit={handleDateSubmit} className="date-form">
             <input
