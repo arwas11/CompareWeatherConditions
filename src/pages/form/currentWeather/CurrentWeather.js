@@ -42,10 +42,10 @@ export default function CurrentWeather(props) {
             {props.currentWeather.weather[0].description}
             {/* <img src={iconUrl} alt="an icon describing the state of weather" /> */}
           </h3>
-          <h3> Sunrise: {currentSunriseSliced} AM </h3>
-          <h3> Sunset: {currentSunsetSliced} PM </h3>
           <h3> Current Temperature: {currentTemp.slice(0, 2)}°F </h3>
           <h3> Feels Like: {currentFeelsLikeTemp.slice(0, 2)}°F </h3>
+          <h3> Sunrise: {currentSunriseSliced} AM </h3>
+          <h3> Sunset: {currentSunsetSliced} PM </h3>
           <h3> Rain: {rain ? `${rain} mm` : "no available data"} </h3>
           <h3> Snow: {snow ? `${snow} mm` : "no available data"} </h3>
           <h3> Wind Speed: {wind.speed} mph </h3>

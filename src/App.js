@@ -36,7 +36,8 @@ export default function App() {
     try {
       if (!startDate && !lat) {
         setCurrentWeather(null)
-        return alert(`please enter a valid date`)
+        return 
+        // alert(`please enter a valid date`)
       }
       const response = await fetch(pastWeatherUrl);
       const pastWeatherData = await response.json();
@@ -61,10 +62,15 @@ export default function App() {
     }
   };
 
-  //how to have no default???
+
   // useEffect(() => {
-  //   getPastWeather();
-  // }, []);
+  //   getCurrentWeather();
+  // }, );
+  
+  useEffect(() => {
+    getPastWeather();
+  }, []);
+
 
   return (
     <div className="app">
