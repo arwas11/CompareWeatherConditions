@@ -8,7 +8,7 @@ This app allows you to compare today's weather conditions in a specific city to 
 
 ## Motivation
 
-I was motivated to create this app by the drastic and noticeable changes in weather temperature around the world.
+I was motivated to create this app by the drastic and noticeable changes in weather temperatures around the world.
 
 ## Screenshots
 
