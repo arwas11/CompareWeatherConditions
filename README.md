@@ -12,7 +12,7 @@ I was motivated to create this app by the drastic and noticeable changes in weat
 
 ## Screenshots
 
-![ScreenshotOfApp1](https://user-images.githubusercontent.com/121985979/233684009-c6184b6b-8fb6-4979-ab34-d594881a6619.png)
+![ScreenshotOfApp1](https://user-images.githubusercontent.com/121985979/236693361-19bf1b11-69d5-4597-b5de-2774092adab1.png)
 ![ScreenshotOfApp2](https://user-images.githubusercontent.com/121985979/233684042-b0a5ba14-30d2-49c3-9775-296c682659ff.png)
 ![ScreenshotOfApp3](https://user-images.githubusercontent.com/121985979/233697544-7e81c450-58e3-4891-a269-7e3896acb552.png)
 
