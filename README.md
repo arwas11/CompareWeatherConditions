@@ -4,7 +4,7 @@ This app allows you to compare today's weather conditions in a specific city to 
 
 ## Weather Conditions React App Live Link
 
-[https://weather-conditions-app-11.netlify.app/](https://weather-conditions-comparison-11.netlify.app/)
+https://compare-weather-conditions-11.netlify.app/
 
 ## Motivation
 
