@@ -34,6 +34,7 @@ The app is easy to use. The user will need to click the enter buton in the welco
 ## Unresolved Issues
 
 - Due to the Open-Metep API limitation that does not include the past 5 days weather conditions data, I am planning to configure the date input to only show a calendar-date selections starting from 5 days farther. 
+- Configuring sunrise and sunset rendering. The sunrise and sunset times seems to be set to rendr based on user's time-zone. This makes the sunrise and sunset times from different regions, like the Middle-East, renderes only based user's time-zone.
 - Work on error handling
 
 ## Future Improvements
