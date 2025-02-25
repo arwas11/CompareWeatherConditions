@@ -1,4 +1,4 @@
-# About Compare Weather Conditions React App
+# About Weather Time Machine 0.1 React App
 
 This app allows you to compare today's weather conditions in a specific city to the weather conditions in the same city in the past.
 
